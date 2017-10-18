@@ -1,10 +1,9 @@
 # Smartmedico
-Smart Medico : AI Based Medicine Suggestions to Patients and Smart Contract Enforceable Payment Delivery.
+Smart Medico : AI Based Medicine Suggestions to patients and Smart Contract Enforceable Payment Delivery.
 
-Problem : Patient goes to doctor to get solution of his disease.
-Patient ends up getting few suggestions and medicines and a bill which he needs to pay upfront either he is cured or disease.
+Problem : The patient goes to the doctor to get cured.The patient ends up getting few suggestions and medicines(bill) and a bill which he needs to pay upfront regardless of being cured or not.
 
-1. Now Machine can suggest medicine to customer based on his symptoms.
+1. Now Machine can suggest medicine to the patient based on his symptoms.
 2. Doctor Approves/Disapproves the suggested medicines.
 3. Doctor gets paid when the customer is well enforced by ETH Smart contracts.
 
